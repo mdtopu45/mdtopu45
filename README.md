@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Topu
-(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-#### I am Web Developer
-![I am Web Developer]
+![](https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/302446288_602704918016524_4689034950447192811_n.jpg?stp=dst-jpg_s960x960&_nc_cat=110&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGdc2elQm2RMBPFf5icaVEN-M8ooi-Mrwb4zyiiL4yvBkYTVQ5svHh7wQIla3kDVtAoZErJYtDDURXww6GvbLw1&_nc_ohc=YRSP1K4tfI0AX9SzhUr&_nc_ht=scontent.fdac138-1.fna&oh=00_AfC5krmt8xEYX3c3Po6QDLXPXuPbf1NP-EsY1L_fOhvD5A&oe=640069E3)
 
 hey my name is topu :) 
 
